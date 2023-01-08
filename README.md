@@ -17,11 +17,11 @@
 
 
 ### 🧙‍♂️ CSS Houdini
-- 👾 [Pixel Box](https://jerosoler.github.io/css-houdini-pixel-box/) - [Repo](https://github.com/jerosoler/css-houdini-pixel-box)
-- 🔳 [Corner Box](https://jerosoler.github.io/cornerbox/) - [Repo](https://github.com/jerosoler/cornerbox)
-- 📦 [3DBox](https://jerosoler.github.io/3dbox/) - [Repo](https://github.com/jerosoler/3dbox)
+- 👾 [Pixel Box](https://jerosoler.github.io/css-houdini-pixel-box/) - [Repo](https://github.com/jerosoler/css-houdini-pixel-box) -[NPM](https://www.npmjs.com/package/css-houdini-pixel-box)
+- 🔳 [Corner Box](https://jerosoler.github.io/cornerbox/) - [Repo](https://github.com/jerosoler/cornerbox) - [NPM](https://www.npmjs.com/package/cornerbox)
+- 📦 [3DBox](https://jerosoler.github.io/3dbox/) - [Repo](https://github.com/jerosoler/3dbox) - [NPM](https://www.npmjs.com/package/threedbox)
 
-### 🎉 FUN
+### 🎉 Fun
 - 👾 [SvgPixelArt](https://jerosoler.github.io/SvgPixelArt/) - [Repo](https://github.com/jerosoler/SvgPixelArt)
 - 👨 [PaperBoy](https://jerosoler.github.io/PaperBoy/) - [Repo](https://github.com/jerosoler/PaperBoy)
 - 💙➡️💛 [Ts2Js](https://jerosoler.github.io/ts2js/) - [Repo](https://github.com/jerosoler/ts2js)
