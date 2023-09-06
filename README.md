@@ -13,8 +13,8 @@
 ### 🎨 CSS/SVG generators
 - 🌊 [Svg Generator Waves](https://jerosoler.github.io/css-svg-generator-waves/) - [Repo](https://github.com/jerosoler/css-svg-generator-waves)
 - 🐼 [Background emoji](https://jerosoler.github.io/background-emoji/) - [Repo](https://github.com/jerosoler/background-emoji)
-- 🎨 [Drawflow Theme Generator](https://jerosoler.github.io/drawflow-theme-generator/) - [Repo](https://github.com/jerosoler/drawflow-theme-generator) 
-
+- 🎨 [Drawflow Theme Generator](https://jerosoler.github.io/drawflow-theme-generator/) - [Repo](https://github.com/jerosoler/drawflow-theme-generator)
+- 🔳 [Vcard Generator QR](https://jerosoler.github.io/vcard-generator-qr/) - [Repo](https://github.com/jerosoler/vcard-generator-qr)
 
 ### 🧙‍♂️ CSS Houdini
 - 👾 [Pixel Box](https://jerosoler.github.io/css-houdini-pixel-box/) - [Repo](https://github.com/jerosoler/css-houdini-pixel-box) -[NPM](https://www.npmjs.com/package/css-houdini-pixel-box)
